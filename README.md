@@ -2,7 +2,11 @@
 
 ## Summary
 
-Fly through space avoiding being hit by obstacles
+Fly through space avoiding being hit by obstacles.
+
+## Screenshot
+
+![capture-V1.0.0](https://github.com/luchocurti/spaceship/blob/master/screenshots/capture-V1.0.0.png?raw=true)
 
 ## Module dependencies
 
